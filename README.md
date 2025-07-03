@@ -1,5 +1,5 @@
 
-# 🧠 Data-Driven, Stats-Based Football Scouting
+# 🧠 Player-Recommendation-System-for-Tactical-Football
 *A Data Science Approach to Tactical Player Recommendation*
 
 ## 📄 Description
