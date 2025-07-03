@@ -87,7 +87,3 @@ The system analyzes players' performance metrics and recommends an ideal **11-pl
 
 **Prasiddha Shukla**  
 B.Tech (Electrical) | MIT-WPU | Football Enthusiast & Data Analyst
-
-## 📜 License
-
-[MIT License](LICENSE) – *free to use, distribute, and modify with attribution.*
